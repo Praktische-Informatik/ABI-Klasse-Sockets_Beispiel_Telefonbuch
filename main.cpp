@@ -1,3 +1,9 @@
+// Anmerkung: 
+// Dies ist ein Win32 Projekt (siehe oben in deiner Symbolleste).
+// Solltest du ein x64 Projekt haben erstellt haben musst du in der Klasse CSocket.hppp die filgenden Zeile einfügen
+// #pragma comment(lib,"ws2_32.lib")
+// Auch #include <Windows.h> kann manchmal helfen. 
+
 #include "TelefonbuchServer.h"
 #include "TelefonClient.h"
 #include <iostream>
