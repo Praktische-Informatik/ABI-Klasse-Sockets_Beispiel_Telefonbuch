@@ -1,6 +1,6 @@
 Hinweis: 
 
-Getestet auf Visualstudio 2019 >> x86 (Win32)
+Getestet auf VisualStudio 2022 >> x86 (Win32)
 
 Sollten die Socket Klassen in Deinem Projekt nicht funktionieren, kann es an den Projekteinstellungen (Win32, x64, ....) liegen. Dann kannst Du die diese Projektmappe als Vorlage nutzen und deine Klassen einfügen. Fragen?! Sprich mich an. 
 
